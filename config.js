@@ -72,7 +72,7 @@ window.CONFIG = {
                caption: "\uD83C\uDF0E\u2764\uFE0F Life feels more beautiful with you by my side \uD83E\uDEC2\uD83D\uDC96" } },
 
     { type: "video", title: "Cute Wishes \u2728", date: "Press play, my love",
-      video: "assets/videos/06.mp4", photo: "assets/photos/06v.jpg", volume: 0.05,
+      video: "assets/videos/06.mp4", volume: 0.05,
       caption: "Her Day, Her People \uD83D\uDC51\uD83D\uDC95",
       message: "Nikosam ni bday ki cute and sweet wishes from your friends and family. \uD83C\uDF81\u2764\uFE0F\uD83E\uDEF6\uD83C\uDFFB" },
 
