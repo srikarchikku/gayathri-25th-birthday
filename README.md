@@ -1,6 +1,6 @@
 # Gayathri's Birthday Book
 
-A flip-book website. Everything you edit is in **config.js**.
+A flip-book website, Everything you edit is in **config.js**.
 
 ## Folder layout
 ```
