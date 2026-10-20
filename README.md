@@ -13,6 +13,7 @@ assets/
 ```
 Until you add your own files, pages show "your photo goes here" placeholders.
 
+
 ## Editing
 1. Open `config.js`, replace every `[placeholder]` text with your own words.
 2. The lock question, hint and answer are in `lock` (currently "First movie watched in theatre?" / "Vaazha 2"). Capitals, spaces and small spelling variations are accepted.
